@@ -1,0 +1,2 @@
+# AgriYield-Al---Intelligent-Crop-Yield-Prediction-Agricultural-Analytics
+A Python-based machine learning system leveraging data analysis, feature engineering, and predictive modeling to estimate crop yield using agricultural and environmental parameters. Integrates data preprocessing, statistical analysis, and model evaluation to generate data-driven insights forprecision agriculture and sustainable crop planning
